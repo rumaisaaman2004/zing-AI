@@ -6,4 +6,3 @@ python-dotenv==1.0.0
 groq>=0.4.1
 gunicorn==21.2.0
 setuptools
-pandas
